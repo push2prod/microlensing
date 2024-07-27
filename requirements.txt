@@ -1,0 +1,10 @@
+polars[pyarrow, plot]
+jupyterlab
+numpy<2
+scipy
+duckdb
+matplotlib
+ipywidgets
+ipython
+kaleido
+jax
